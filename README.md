@@ -1,2 +1,2 @@
-# danhluna.github.io
+# danielhluna.github.io
 Mi sitio web personal
